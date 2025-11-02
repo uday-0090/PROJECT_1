@@ -20,7 +20,7 @@ Performed exploratory data analysis to identify job trends, salary patterns, and
 
 Visualized insights through interactive plots and dashboards.
 
-Technologies Used:
+Tools Used:
 
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
 
